@@ -1,0 +1,14 @@
+{
+  "name": "Microdiving",
+  "short_name": "Microdiving",
+  "description": "Microdiving",
+  "background_color": "#cccccc",
+  "theme_color": "#cccccc",
+  "theme-color:": "#cccccc",
+  "start_url": "/",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en-US",
+  "orientation": "any",
+  "icons": []
+}
